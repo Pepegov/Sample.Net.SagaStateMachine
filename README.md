@@ -15,24 +15,29 @@ In this project, you'll find:
 ## 🚀 How to Run
 
 1. Clone the repository:
-	```bash
-	git clone https://github.com/Pepegov/Sample.Net.SagaStateMachine.git
-	cd Sample.Net.SagaStateMachine
-	```
+  ```bash
+  git clone https://github.com/Pepegov/Sample.Net.SagaStateMachine.git
+  cd Sample.Net.SagaStateMachine
+  ```
+
 2. Open the solution in Visual Studio or Rider.
+
 3. Set the desired project (Choreography or Orchestration) as the startup project.
-	For the orchestration, run the projects: 
-	- Orchestration 
-	- Orchestration.Delivery 
-	- Orchestration.Inventory 
-	- Orchestration.Order 
-	In the Orchestration project window, press Enter to start the Saga 
-	
-	For the  choreography, run the projects: 
-	- Choreography.Delivery
-	- Choreography.Inventory
-	- Choreography.Order 
-	In the Choreography project Choreography.Order press Enter to start the Saga.
+  For the orchestration, run the projects: 
+  - Orchestration 
+  - Orchestration.Delivery 
+  - Orchestration.Inventory 
+  - Orchestration.Order 
+
+  In the Orchestration project window, press Enter to start the Saga 
+
+  For the  choreography, run the projects: 
+  - Choreography.Delivery
+  - Choreography.Inventory
+  - Choreography.Order 
+
+  In the Choreography project Choreography.Order press Enter to start the Saga.
+
 4. Run the application and follow the logs/output to see the Saga flow in action.
 
 ## 🎯 Goal
