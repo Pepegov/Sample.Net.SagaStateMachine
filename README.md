@@ -23,7 +23,9 @@ In this project, you'll find:
 2. Open the solution in Visual Studio or Rider.
 
 3. Set the desired project (Choreography or Orchestration) as the startup project.
+
   For the orchestration, run the projects: 
+
   - Orchestration 
   - Orchestration.Delivery 
   - Orchestration.Inventory 
