@@ -1,0 +1,3 @@
+namespace Orchestration.Contracts.Orchestration;
+
+public record OrchestrationInventoryGoodsBookedInWarehouseEventCompleted(Guid OrderId);

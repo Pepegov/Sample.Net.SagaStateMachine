@@ -1,0 +1,3 @@
+namespace Orchestration.Contracts.Orchestration;
+
+public record OrchestrationInventoryGoodsBookedInWarehouseEventFailed(Guid OrderId, ProblemDetails ProblemDetails);
